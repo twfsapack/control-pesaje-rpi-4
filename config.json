@@ -1,0 +1,8 @@
+{
+  "oscillators": [
+    { "ton": 1.0, "toff": 1.0, "delay": 0.0 },
+    { "ton": 1.0, "toff": 1.0, "delay": 0.0 },
+    { "ton": 1.0, "toff": 1.0, "delay": 0.0 },
+    { "ton": 1.0, "toff": 1.0, "delay": 0.0 }
+  ]
+}
